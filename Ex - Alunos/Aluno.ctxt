@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Aluno
+comment1.params=vnome\ vnota
+comment1.target=Aluno(java.lang.String,\ float)
+comment2.params=
+comment2.target=Aluno()
+comment3.params=vnome
+comment3.target=Aluno(java.lang.String)
+comment4.params=vnota
+comment4.target=Aluno(float)
+comment5.params=nota
+comment5.target=void\ setNota(float)
+comment5.text=public\ Aluno(String\ vmatricula,\ float\ vnota){\n\ \ \ \ \ \ \ matricula\ \=\ vmatricula;\n\ \ \ \ \ \ \ nome\ \=\ "";\n\ \ \ \ \ \ \ nota\ \=\ vnota;\n}
+comment6.params=
+comment6.target=float\ getNota()
+comment7.params=
+comment7.target=java.lang.String\ getNome()
+comment8.params=nome
+comment8.target=void\ setNome(java.lang.String)
+comment9.params=
+comment9.target=boolean\ estaAprovado()
+numComments=10

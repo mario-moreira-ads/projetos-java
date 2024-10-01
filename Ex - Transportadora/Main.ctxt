@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=vs
+comment2.target=void\ imprimeVeiculosSegurado(VeiculoSegurado)
+numComments=3

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Banco
+comment1.params=
+comment1.target=Banco()
+comment2.params=nome
+comment2.target=void\ setNome(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getNome()
+comment4.params=cli
+comment4.target=void\ addCliente(Cliente)
+comment5.params=
+comment5.target=java.util.ArrayList\ getClientes()
+numComments=6

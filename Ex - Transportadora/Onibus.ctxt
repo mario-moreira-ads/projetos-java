@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Onibus
+comment1.params=
+comment1.target=double\ precoKmPercorrido()
+comment2.params=
+comment2.target=double\ valorSeguro()
+comment3.params=ehLeito
+comment3.target=void\ setEhLeito(boolean)
+comment4.params=
+comment4.target=boolean\ getEhLeito()
+numComments=5

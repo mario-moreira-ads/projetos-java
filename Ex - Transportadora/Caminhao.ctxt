@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Caminhao
+comment1.params=
+comment1.target=double\ precoKmPercorrido()
+comment2.params=
+comment2.target=double\ valorSeguro()
+comment3.params=
+comment3.target=boolean\ foiInspecionado()
+comment4.params=numeroEixos
+comment4.target=void\ setNumeroEixos(int)
+comment5.params=
+comment5.target=int\ getNumeroEixos()
+numComments=6
