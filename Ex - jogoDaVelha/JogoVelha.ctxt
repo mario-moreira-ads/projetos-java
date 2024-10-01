@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=JogoVelha
+comment1.params=
+comment1.target=JogoVelha()
+comment2.params=
+comment2.target=void\ zerarTabuleiro()
+comment3.params=
+comment3.target=Jogador\ resultado()
+comment4.params=jogador\ linha\ coluna
+comment4.target=void\ jogar(EJogo,\ int,\ int)
+comment5.params=jogador1
+comment5.target=void\ setJogador1(Jogador)
+comment6.params=
+comment6.target=Jogador\ getJogador1()
+comment7.params=jogador2
+comment7.target=void\ setJogador2(Jogador)
+comment8.params=
+comment8.target=Jogador\ getJogador2()
+numComments=9
