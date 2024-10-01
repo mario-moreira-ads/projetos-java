@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Triangulo
+comment1.params=
+comment1.target=Triangulo()
+comment10.params=
+comment10.target=double\ getC()
+comment2.params=
+comment2.target=java.lang.String\ classificar()
+comment3.params=
+comment3.target=double\ area()
+comment4.params=
+comment4.target=double\ perimetro()
+comment5.params=a
+comment5.target=void\ setA(double)
+comment6.params=
+comment6.target=double\ getA()
+comment7.params=b
+comment7.target=void\ setB(double)
+comment8.params=
+comment8.target=double\ getB()
+comment9.params=c
+comment9.target=void\ setC(double)
+numComments=11
